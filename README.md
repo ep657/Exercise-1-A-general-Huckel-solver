@@ -3,11 +3,11 @@ A Python script to calculate the Huckel MO energies and their associated energie
 - n-membered linear polyenes
 - n-membered cyclic polyenes
 - sp2 hybridised platonic solids, including:
-↳ tetrahedron
-↳ octahedron
-↳ cube
-↳ icosahedron
-↳ dodecahedron
+  - tetrahedron
+  - octahedron
+  - cube
+  - icosahedron
+  - dodecahedron
 - Buckminsterfullerene
 
   ## Theory
