@@ -11,7 +11,7 @@ A Python script to calculate the Huckel MO energies and their associated energie
 - Buckminsterfullerene
 
   ## Theory
-The Hückel method simplifies molecular orbital theory for conjugated hydrocarbon systems
+The Hückel method simplifies molecular orbital theory for conjugated hydrocarbon systems.
 The Hückel matrix is formed from the assumptions:
 
 $$
