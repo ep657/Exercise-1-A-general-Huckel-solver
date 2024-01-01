@@ -12,8 +12,12 @@ A Python script to calculate the Huckel MO energies and their associated energie
 
   ## Theory
 The Hückel method simplifies molecular orbital theory for conjugated hydrocarbon systems
-The Hückel matrix is formed from the following assumptions:
+The Hückel matrix is formed from the assumptions:
 
-- \(H_{ij} = \alpha\) if \(i = j\)
-- \(H_{ij} = \beta\) if \(i\) is adjacent to \(j\)
-- \(H_{ij} = 0\) otherwise
+$$
+H_{ij} = \begin{cases}
+    \alpha & \text{if } i = j \\
+    \beta & \text{if } i \text{ is adjacent to } j \\
+    0 & \text{otherwise}
+\end{cases}
+$$
