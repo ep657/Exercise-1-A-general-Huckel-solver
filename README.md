@@ -57,3 +57,14 @@ To launch the program, run huckel_solver.py. The program requires user input for
   - icosahedron
   - dodecahedron
   - Buckminsterfullerene
+
+## Physical interpretation of results
+
+### Platonic solids
+I find it improbable that most platonic solids possess a functional π system. In solids like the tetrahedron, cube, or octahedron, the orientation of the p orbitals may not facilitate effective bonding overlap between adjacent atoms. Note also that while Hückel theory assumes that only adjacent atoms can interact, here atoms that aren't directly adjacent might still interact with each other significantly due to their spatial proximity.
+
+### Buckminsterfullerene
+In this calculation, there appears to be a 9-fold degenerate level at energy α+1.000*β. Buckminsterfullerene belongs to the icosahedral point group, for which the largest degeneracy permitted is 5-fold. Therefore this level may arise through the accidental degeneracy of a 5-fold degenerate set and a 4-fold degenerate set.
+
+### Linear and cyclic polyenes
+The Hückel method tends to produce acceptable results for linear and cyclic polyenes. These structures adhere relatively well to the simplifying assumptions of the Hückel approach, allowing for reasonably accurate predictions.
