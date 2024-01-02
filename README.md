@@ -41,3 +41,19 @@ E_i & : \text{Energy eigenvalue of the Hückel Hamiltonian} \\
 \end{equation*}
 $$
 
+For linear and cyclic systems, the program automatically generates the adjacency matrix based on the number of atoms. For the sp2-hybridized Platonic solids and Buckminsterfullerene, predefined adjacency matrices are included due to their complexity.
+
+## Usage
+
+To launch the program, run huckel_solver.py. The program requires user input for the type of molecule to be analysed.
+
+### Available input modes:
+- linear polyene (prompt for n)
+- cyclic polyene (prompt for n)
+- a set of preset molecules:
+  - tetrahedron
+  - octahedron
+  - cube
+  - icosahedron
+  - dodecahedron
+  - Buckminsterfullerene
