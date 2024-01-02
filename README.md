@@ -31,9 +31,9 @@ $$
 Where
 
 $$
-\( E_i \)= Eigenvalue of the Hückel Hamiltonian
-\( \alpha \)= the Coulomb integral
-\( \lambda_i \)= Eigenvalue of the adjacency matrix
-\( \beta \)= the resonance integral
+\( E_i \)= \text{Eigenvalue of the Hückel Hamiltonian}
+\( \alpha \)= \text{the Coulomb integral}
+\( \lambda_i \)= \text{Eigenvalue of the adjacency matrix}
+\( \beta \)= \text{the resonance integral}
 $$
 
