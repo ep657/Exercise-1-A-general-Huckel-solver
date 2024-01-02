@@ -39,6 +39,5 @@ E_i & : \text{Energy eigenvalue of the Hückel Hamiltonian} \\
 \beta & : \text{the resonance integral}
 \end{align*}
 \]
-
 $$
 
