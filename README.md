@@ -2,7 +2,7 @@
 A Python script to calculate the Huckel MO energies and their associated energies for selected compounds, including:
 - n-membered linear polyenes
 - n-membered cyclic polyenes
-- sp2 hybridised platonic solids, including:
+- the following sp2 hybridised platonic solids:
   - tetrahedron
   - octahedron
   - cube
