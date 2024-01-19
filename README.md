@@ -1,5 +1,5 @@
 # Exercise 1: A general Hückel solver
-A Python script to calculate the Huckel MO energies and their associated energies for selected compounds, including:
+A Python script to calculate the Huckel MO energies and their associated degeneracies for selected compounds, including:
 - n-membered linear polyenes
 - n-membered cyclic polyenes
 - the following sp2 hybridised platonic solids:
